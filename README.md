@@ -1,11 +1,11 @@
-## Draco Jonathan - Software developer
+## Draco Jonathan
 
 ### Hello guys :v:
 
-- My name is Draco. Currently, I am a software developer for [Long Defi Foundation](https://github.com/LongDefi-foundation)
-- Langugaes: Go, Rust, Javascript
+- My name is Draco.
+- Currently, I am Co-founder & Technical director at **[Long Defi Foundation](https://github.com/LongDefi-foundation)**
+- Languages: Go, Rust, Javascript
 - Techs: Eth, Polkadot, WASM, ZKSnarks
-- I am very interested in learning new things and low-level architecture
-
+- **High reputation, high standards**
 ### Contact 📪
 - Email: draco.longdefi@gmail.com
